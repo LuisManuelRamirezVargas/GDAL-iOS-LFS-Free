@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
     spec.name         = "GDALiOSNOLFS"
-    spec.version      = "1.1.0"
+    spec.version      = "1.0.3"
     spec.summary      = "GDAL for iOS."
     spec.homepage     = "https://luismdeveloper.com"
     spec.license      = "MIT"
